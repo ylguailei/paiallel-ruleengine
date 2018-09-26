@@ -1,0 +1,2 @@
+# paiallel-ruleengine
+基于akka实现的并行规则引擎规则语言使用groovy实现
